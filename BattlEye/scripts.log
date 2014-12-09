@@ -1,0 +1,2897 @@
+09.12.2014 15:02:25: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[] execVM "DZMS\DZMSInit.sqf";"
+09.12.2014 15:04:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[] execVM "DZMS\DZMSInit.sqf";"
+09.12.2014 15:04:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:04:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:05:50: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[] execVM "DZMS\DZMSInit.sqf";"
+09.12.2014 15:05:50: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:05:50: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:05:50: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:05:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:05:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:05:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:05:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:05:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:05:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:05:54: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:05:54: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:05:55: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:05:55: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:01: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:01: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:06: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:06: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:08: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:08: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:10: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:10: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:17: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:06:43: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:43: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:48: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:48: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:49: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:49: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:54: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:54: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:06:57: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:06:57: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:07:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:07:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:07:45: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:07:45: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:15:18: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[] execVM "DZMS\DZMSInit.sqf";"
+09.12.2014 15:15:18: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:15:18: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:15:18: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:15:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:15:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:15:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:15:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:15:24: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:15:24: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:15:27: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:15:27: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:15:47: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:16:44: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:16:44: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:22:06: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[] execVM "DZMS\DZMSInit.sqf";"
+09.12.2014 15:22:06: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:22:06: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:22:06: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:22:36: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:22:40: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:23:11: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:23:11: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] ExecVM DZMSMajTimer;
+[] ExecVM DZMSMinTimer;
+DZMSMajDone = false;
+"
+09.12.2014 15:31:49: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[] execVM "DZMS\DZMSInit.sqf";"
+09.12.2014 15:31:49: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:31:49: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:31:49: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] execVM "scripts/DZMSMajTimer.sqf";
+[] execVM "scripts/DZMSMinTimer"
+09.12.2014 15:32:18: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:32:53: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:32:53: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] execVM "scripts/DZMSMajTimer.sqf";
+[] execVM "scripts/DZMSMinTimer"
+09.12.2014 15:36:25: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[] execVM "DZMS\DZMSInit.sqf";"
+09.12.2014 15:36:25: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:36:25: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:36:25: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] execVM "DZMS\Scripts\DZMSMajTimer.sqf";
+[] execVM "DZMS\Scripts\DZ"
+09.12.2014 15:36:55: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:37:01: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:37:05: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:37:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:37:11: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:37:17: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:37:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:37:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] execVM "DZMS\Scripts\DZMSMajTimer.sqf";
+[] execVM "DZMS\Scripts\DZ"
+09.12.2014 15:40:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[] execVM "DZMS\DZMSInit.sqf";"
+09.12.2014 15:40:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:40:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:40:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] execVM "DZMS\Scripts\DZMSMajTimer.sqf";
+[] execVM "DZMS\Scripts\DZ"
+09.12.2014 15:40:48: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:40:50: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:41:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:41:23: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #7 "found! Using DZMS Relations."];
+
+
+createCenter east;
+
+WEST setFriend [EAST,0];
+EAST setFriend [WEST,0];
+
+EAST setFriend [CIVILIA"
+09.12.2014 15:41:23: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ctions.sqf";
+
+
+DZMSUnitsMinor = [];
+DZMSUnitsMajor = [];
+
+
+[] execVM "DZMS\Scripts\DZMSMajTimer.sqf";
+[] execVM "DZMS\Scripts\DZ"
+09.12.2014 15:55:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 15:55:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:55:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 15:55:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:55:38: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:55:44: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:55:46: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:55:49: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:55:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:55:53: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:55:55: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:56:19: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 15:56:19: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) th"
+09.12.2014 15:56:19: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 15:58:19: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 15:58:19: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:58:19: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 15:58:34: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 15:58:34: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:58:34: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " Name It";
+"Marker1" setMarkerColor "ColorOrange";
+
+
+sleep 5;
+execVM "mission\ai.sqf";
+
+_n1 = floor(random 7);
+if (_n1 == 0) the"
+09.12.2014 15:58:34: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 15:58:34: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "ker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 15:58:34: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mi"
+09.12.2014 15:58:36: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 15:58:39: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " Name It";
+"Marker1" setMarkerColor "ColorOrange";
+
+
+sleep 5;
+execVM "mission\ai.sqf";
+
+_n1 = floor(random 7);
+if (_n1 == 0) the"
+09.12.2014 15:58:39: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 15:58:39: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "ker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 15:58:39: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mi"
+09.12.2014 15:58:39: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 16:00:49: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 16:00:50: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:00:50: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 16:01:05: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 16:01:05: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:01:05: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+EPOCH_TEMPOBJ_PVS = _unit;
+publicVariable"
+09.12.2014 16:01:05: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round wasting time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 16:01:05: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "marker = createMarker ["Marker1",[10468,11648.7]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 16:01:05: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[10468,11648.7]];
+_marker setMarkerType "mil_o"
+09.12.2014 16:01:07: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:01:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:01:10: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+EPOCH_TEMPOBJ_PVS = _unit;
+publicVariable"
+09.12.2014 16:01:10: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round wasting time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 16:01:10: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "marker = createMarker ["Marker1",[10468,11648.7]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 16:01:10: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[10468,11648.7]];
+_marker setMarkerType "mil_o"
+09.12.2014 16:01:10: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["LMG_Mk200_MRCO_F", 2];
+_box1 addWeaponCargoGloba"
+09.12.2014 16:02:44: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 16:02:44: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:02:44: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 16:02:59: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 16:03:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:03:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "t Heli Crash";
+"Marker1" setMarkerColor "Colorblue";
+sleep 5;
+execVM "\mission\ai.sqf";
+
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) "
+09.12.2014 16:03:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round wasting time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+
+sleep 10;
+execVM "\mission\call_missions.sq"
+09.12.2014 16:03:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "arker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "Bandit Heli C"
+09.12.2014 16:03:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "icopter Crash","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_"
+09.12.2014 16:03:01: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:03:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "t Heli Crash";
+"Marker1" setMarkerColor "Colorblue";
+sleep 5;
+execVM "\mission\ai.sqf";
+
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) "
+09.12.2014 16:03:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round wasting time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+
+sleep 10;
+execVM "\mission\call_missions.sq"
+09.12.2014 16:03:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "arker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "Bandit Heli C"
+09.12.2014 16:03:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "icopter Crash","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_"
+09.12.2014 16:04:07: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 16:04:07: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:04:07: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 16:04:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 16:04:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:04:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) t"
+09.12.2014 16:04:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "ound wasting time. Maybe you'll catch em next time."];
+
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 16:04:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "arker = createMarker ["Marker1",[20039.09,16907]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 16:04:22: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "ion\missions2.sqf"
+if (!isServer) exitwith {};
+
+_marker = createMarker ["Marker1",[20039.09,16907]];
+_marker setMarkerType "mil_"
+09.12.2014 16:04:24: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:04:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:04:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:04:40: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:04:44: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:11:45: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 16:11:45: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:11:45: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 16:12:13: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 16:13:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 16:13:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) th"
+09.12.2014 16:13:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 16:13:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "marker = createMarker ["Marker1",[25694.2,22434]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 16:13:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[25694.2,22434]];
+_marker setMarkerType "mil_o"
+09.12.2014 16:13:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 16:13:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 16:13:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["LMG_Zafir_F", 1];
+_box1 addMagazineCargoGlobal ["
+09.12.2014 16:13:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #24 "1;
+_box1 addWeaponCargoGlobal ["LMG_Zafir_F", 1];
+_box1 addMagazineCargoGlobal ["150Rnd_762x51_Box", 4];
+_box1 additemcargoGloba"
+09.12.2014 17:43:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 17:43:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:43:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 17:43:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 17:43:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:43:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+EPOCH_TEMPOBJ_PVS = _unit;
+publicVariable"
+09.12.2014 17:43:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round wasting time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 17:43:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "marker = createMarker ["Marker1",[10468,11648.7]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 17:43:30: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[10468,11648.7]];
+_marker setMarkerType "mil_o"
+09.12.2014 17:43:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:43:34: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+EPOCH_TEMPOBJ_PVS = _unit;
+publicVariable"
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round wasting time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "marker = createMarker ["Marker1",[10468,11648.7]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[10468,11648.7]];
+_marker setMarkerType "mil_o"
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["srifle_GM6_SOS_F", 1];
+_box1 addWeaponCargoGloba"
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #24 ", 1];
+_box1 addWeaponCargoGlobal ["MultiGun", 1];
+_box1 addMagazineCargoGlobal ["5Rnd_127x108_Mag", 4];
+_box1 addMagazineCargoGl"
+09.12.2014 17:43:35: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #25 ", 4];
+_box1 addMagazineCargoGlobal ["EnergyPack", 4];
+_box1 additemcargoGlobal ["ItemCompass", 1];
+_box1 additemcargoGlobal ["Fi"
+09.12.2014 17:45:12: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 17:45:12: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:45:12: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 17:45:27: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 17:45:27: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:45:27: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " Name It";
+"Marker1" setMarkerColor "ColorOrange";
+
+
+sleep 5;
+execVM "mission\ai.sqf";
+
+_n1 = floor(random 7);
+if (_n1 == 0) the"
+09.12.2014 17:45:27: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 17:45:27: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "ker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 17:45:27: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mi"
+09.12.2014 17:45:29: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " Name It";
+"Marker1" setMarkerColor "ColorOrange";
+
+
+sleep 5;
+execVM "mission\ai.sqf";
+
+_n1 = floor(random 7);
+if (_n1 == 0) the"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "ker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mi"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["srifle_GM6_SOS_F", 1];
+_box1 addWeaponCargoGloba"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #24 ", 1];
+_box1 addWeaponCargoGlobal ["MultiGun", 1];
+_box1 addMagazineCargoGlobal ["5Rnd_127x108_Mag", 4];
+_box1 addMagazineCargoGl"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #25 ", 4];
+_box1 addMagazineCargoGlobal ["EnergyPack", 4];
+_box1 additemcargoGlobal ["ItemCompass", 1];
+_box1 additemcargoGlobal ["Fi"
+09.12.2014 17:45:32: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #26 "2];
+_box1 additemcargoGlobal ["jerrycan_epoch", 2];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 17:46:48: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 17:46:48: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:46:48: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 17:47:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 17:47:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:47:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) t"
+09.12.2014 17:47:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "und wasting time. Maybe you'll catch em next time."];
+
+
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 17:47:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 17:47:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_obje"
+09.12.2014 17:47:06: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) t"
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "und wasting time. Maybe you'll catch em next time."];
+
+
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_obje"
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["LMG_Zafir_F", 1];
+_box1 addMagazineCargoGlobal ["
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #24 "1;
+_box1 addWeaponCargoGlobal ["LMG_Zafir_F", 1];
+_box1 addMagazineCargoGlobal ["150Rnd_762x51_Box", 4];
+_box1 additemcargoGloba"
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #25 "box1 addMagazineCargoGlobal ["150Rnd_762x51_Box", 4];
+_box1 additemcargoGlobal ["ItemCompass", 1];
+_box1 additemcargoGlobal ["Ve"
+09.12.2014 17:47:09: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #26 "mp", 5];
+_box1 additemcargoGlobal ["Towelette", 4];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 17:48:33: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 17:48:33: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:48:33: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 17:48:46: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 17:48:46: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:48:46: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) th"
+09.12.2014 17:48:46: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 17:48:46: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "marker = createMarker ["Marker1",[25694.2,22434]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 17:48:46: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[25694.2,22434]];
+_marker setMarkerType "mil_o"
+09.12.2014 17:48:48: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) th"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "marker = createMarker ["Marker1",[25694.2,22434]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[25694.2,22434]];
+_marker setMarkerType "mil_o"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["hgun_P07_F", 2];
+_box1 addWeaponCargoGlobal ["ar"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #24 " addWeaponCargoGlobal ["arifle_Katiba_ACO_F", 2];
+_box1 addMagazineCargoGlobal ["16Rnd_9x21_Mag", 7];
+_box1 addMagazineCargoGlob"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #25 "oGlobal ["30Rnd_65x39_caseless_green_mag_Tracer", 6];
+_box1 additemcargoGlobal ["ItemGPS", 2];
+_box1 additemcargoGlobal ["Binocu"
+09.12.2014 17:48:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #26 " additemcargoGlobal ["U_O_CombatUniform_ocamo", 1];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 17:48:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 17:48:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 17:48:52: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:48:58: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:49:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:49:02: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:49:04: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 17:49:08: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:11:50: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 18:11:50: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:11:50: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 18:12:08: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 18:12:08: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:12:08: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) t"
+09.12.2014 18:12:08: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #40 "und wasting time. Maybe you'll catch em next time."];
+
+
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 18:12:08: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #41 "
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 18:12:08: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_obje"
+09.12.2014 18:12:10: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:12:12: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) t"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #40 "und wasting time. Maybe you'll catch em next time."];
+
+
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #41 "
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_obje"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["hgun_P07_F", 2];
+_box1 addWeaponCargoGlobal ["ar"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #24 " addWeaponCargoGlobal ["arifle_Katiba_ACO_F", 2];
+_box1 addMagazineCargoGlobal ["16Rnd_9x21_Mag", 7];
+_box1 addMagazineCargoGlob"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #25 "oGlobal ["30Rnd_65x39_caseless_green_mag_Tracer", 6];
+_box1 additemcargoGlobal ["ItemGPS", 2];
+_box1 additemcargoGlobal ["Binocu"
+09.12.2014 18:12:13: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #26 " additemcargoGlobal ["U_O_CombatUniform_ocamo", 1];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 18:12:14: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:12:16: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:12:26: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:13:14: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 18:13:14: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:13:14: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 18:13:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 18:13:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:13:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " Name It";
+"Marker1" setMarkerColor "ColorOrange";
+
+
+sleep 5;
+execVM "mission\ai.sqf";
+
+_n1 = floor(random 7);
+if (_n1 == 0) the"
+09.12.2014 18:13:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 18:13:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "ker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 18:13:15: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mi"
+09.12.2014 18:13:17: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " Name It";
+"Marker1" setMarkerColor "ColorOrange";
+
+
+sleep 5;
+execVM "mission\ai.sqf";
+
+_n1 = floor(random 7);
+if (_n1 == 0) the"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "ker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[17557.76,16127.5]];
+_marker setMarkerType "mi"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["hgun_P07_F", 2];
+_box1 addWeaponCargoGlobal ["ar"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #24 " addWeaponCargoGlobal ["arifle_Katiba_ACO_F", 2];
+_box1 addMagazineCargoGlobal ["16Rnd_9x21_Mag", 7];
+_box1 addMagazineCargoGlob"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #25 "oGlobal ["30Rnd_65x39_caseless_green_mag_Tracer", 6];
+_box1 additemcargoGlobal ["ItemGPS", 2];
+_box1 additemcargoGlobal ["Binocu"
+09.12.2014 18:13:20: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #26 " additemcargoGlobal ["U_O_CombatUniform_ocamo", 1];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 18:13:21: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:13:25: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:13:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 18:37:11: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) t"
+09.12.2014 18:37:11: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #40 "und wasting time. Maybe you'll catch em next time."];
+
+
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 18:37:11: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #41 "
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 18:37:11: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[5977,20245]];
+_marker setMarkerType "mil_obje"
+09.12.2014 18:37:11: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["hgun_P07_F", 2];
+_box1 addWeaponCargoGlobal ["ar"
+09.12.2014 18:37:11: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #24 " addWeaponCargoGlobal ["arifle_Katiba_ACO_F", 2];
+_box1 addMagazineCargoGlobal ["16Rnd_9x21_Mag", 7];
+_box1 addMagazineCargoGlob"
+09.12.2014 18:37:11: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #25 "oGlobal ["30Rnd_65x39_caseless_green_mag_Tracer", 6];
+_box1 additemcargoGlobal ["ItemGPS", 2];
+_box1 additemcargoGlobal ["Binocu"
+09.12.2014 18:37:11: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #26 " additemcargoGlobal ["U_O_CombatUniform_ocamo", 1];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 18:37:21: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 18:38:50: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 18:38:50: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #20 "u Name It";
+"Marker1" setMarkerColor "ColorOrange";
+
+sleep 5;
+execVM "mission\ai.sqf";
+
+
+_n1 = floor(random 7);
+if (_n1 == 0) th"
+09.12.2014 18:38:50: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #40 "round waising time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 18:38:50: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #41 "rker = createMarker ["Marker1",[13387.2,17696.5]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 18:38:50: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #42 "you want here","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[13387.2,17696.5]];
+_marker setMarkerType "mil"
+09.12.2014 18:38:55: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 18:38:55: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 18:38:55: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["hgun_P07_F", 1];
+_box1 addWeaponCargoGlobal ["Ro"
+09.12.2014 18:38:55: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #24 " 1];
+_box1 addWeaponCargoGlobal ["Rollins_F", 1];
+_box1 addMagazineCargoGlobal ["16Rnd_9x21_Mag", 4];
+_box1 addMagazineCargoGlob"
+09.12.2014 18:38:55: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #25 "_box1 addMagazineCargoGlobal ["5Rnd_rollins_mag", 4];
+_box1 additemcargoGlobal ["ItemCompass", 1];
+_box1 additemcargoGlobal ["Ra"
+09.12.2014 18:38:55: Ash (209.40.158.27:52307) 84de71d1ec6771e49c4a710ea5d30ed7 - #26 "2];
+_box1 additemcargoGlobal ["jerrycan_epoch", 2];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 19:45:55: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 19:45:55: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 19:45:55: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 19:46:14: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 19:46:14: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 19:46:14: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+_n1 = floor(random 7);
+if (_n1 == 0) the"
+09.12.2014 19:46:14: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #40 "round wasting time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 19:46:14: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #41 "marker = createMarker ["Marker1",[9601.7,7858.3]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 19:46:14: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #42 " you want here","BIS_fnc_log"] call BIS_fnc_MP;
+_marker = createMarker ["Marker1",[9601.7,7858.3]];
+_marker setMarkerType "mil_o"
+09.12.2014 19:46:16: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 "ou Name It";
+"Marker1" setMarkerColor "ColorOrange";
+sleep 5;
+execVM "mission\ai.sqf";
+
+_n1 = floor(random 7);
+if (_n1 == 0) the"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #40 "round wasting time. Maybe you'll catch em next time."];
+
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\call_missions.sqf""
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #41 "marker = createMarker ["Marker1",[9601.7,7858.3]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "You Name It";"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #42 " you want here","BIS_fnc_log"] call BIS_fnc_MP;
+_marker = createMarker ["Marker1",[9601.7,7858.3]];
+_marker setMarkerType "mil_o"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["srifle_GM6_SOS_F", 1];
+_box1 addWeaponCargoGloba"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #24 ", 1];
+_box1 addWeaponCargoGlobal ["MultiGun", 1];
+_box1 addMagazineCargoGlobal ["5Rnd_127x108_Mag", 4];
+_box1 addMagazineCargoGl"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #25 ", 4];
+_box1 addMagazineCargoGlobal ["EnergyPack", 4];
+_box1 additemcargoGlobal ["ItemCompass", 1];
+_box1 additemcargoGlobal ["Fi"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #26 "2];
+_box1 additemcargoGlobal ["jerrycan_epoch", 2];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #21 "argoGlobal _box1;
+
+clearMagazineCargoGlobal _box1;
+_box1 addWeaponCargoGlobal ["srifle_GM6_SOS_F", 1];
+_box1 addWeaponCargoGloba"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #24 ", 1];
+_box1 addWeaponCargoGlobal ["MultiGun", 1];
+_box1 addMagazineCargoGlobal ["5Rnd_127x108_Mag", 4];
+_box1 addMagazineCargoGl"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #25 ", 4];
+_box1 addMagazineCargoGlobal ["EnergyPack", 4];
+_box1 additemcargoGlobal ["ItemCompass", 1];
+_box1 additemcargoGlobal ["Fi"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #26 "2];
+_box1 additemcargoGlobal ["jerrycan_epoch", 2];
+_box1 addbackpackcargoGlobal ["B_Carryall_cbr", 1];
+
+sleep 1500;
+deleteVehic"
+09.12.2014 19:46:20: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 19:46:31: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 20:12:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 20:12:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 20:12:00: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 20:12:29: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 20:13:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 20:13:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "t Heli Crash";
+"Marker1" setMarkerColor "Colorblue";
+sleep 5;
+execVM "\mission\ai.sqf";
+
+
+hint format["Bandits are gathering to "
+09.12.2014 20:13:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "ion\timer.sqf";
+waitUntil { scriptDone script_handler };
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "\mission\call_missions.sqf"
+09.12.2014 20:13:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "arker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "Bandit Heli C"
+09.12.2014 20:13:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "icopter Crash","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_"
+09.12.2014 20:13:48: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\call_missions.sqf";"
+09.12.2014 20:13:48: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 20:13:48: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 20:14:04: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 " _sleepTime;
+
+_n1 = floor(random 9);				
+if (_n1 == 0) then
+{
+execVM "mission\missions.sqf";
+};
+
+if (_n1 == 1) then
+{
+execVM "mi"
+09.12.2014 20:14:04: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 20:14:04: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 "t Heli Crash";
+"Marker1" setMarkerColor "Colorblue";
+sleep 5;
+execVM "\mission\ai.sqf";
+
+
+hint format["Bandits are gathering to "
+09.12.2014 20:14:04: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #40 "ion\timer.sqf";
+waitUntil { scriptDone script_handler };
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "\mission\call_missions.sqf"
+09.12.2014 20:14:04: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #41 "arker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "Bandit Heli C"
+09.12.2014 20:14:04: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #42 "icopter Crash","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_"
+09.12.2014 20:14:06: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 20:14:09: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #20 "t Heli Crash";
+"Marker1" setMarkerColor "Colorblue";
+sleep 5;
+execVM "\mission\ai.sqf";
+
+
+hint format["Bandits are gathering to "
+09.12.2014 20:14:09: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #40 "ion\timer.sqf";
+waitUntil { scriptDone script_handler };
+
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "\mission\call_missions.sqf"
+09.12.2014 20:14:09: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #41 "arker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_objective";
+"Marker1" setMarkerText "Bandit Heli C"
+09.12.2014 20:14:09: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #42 "icopter Crash","BIS_fnc_log"] call BIS_fnc_MP;
+
+_marker = createMarker ["Marker1",[20340.3,6569.2]];
+_marker setMarkerType "mil_"
+09.12.2014 20:14:22: Steve (24.147.98.37:2304) 5f8a37c8ac38e9b0653fca289e12e7f5 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 23:47:17: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "#line 1 "mpmissions\__CUR_MP.Altis\init.sqf"
+
+[] execVM "worp\intro.sqf";
+[]execVM "mission\initMPlus.sqf";"
+09.12.2014 23:47:17: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 23:47:17: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "pTime;
+
+_n1 = floor(random 5);		
+
+switch (_n1) do
+{
+case 0:
+{
+execVM "mission\Missions\bHeliCrash.sqf";
+};
+case 1:
+{
+execVM "mis"
+09.12.2014 23:47:45: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 23:47:51: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #1 "Y + safezoneH - 0.8,0.7], 
+_onScreenTime,
+0.5
+] spawn BIS_fnc_dynamicText;
+sleep (_onScreenTime);
+} forEach [
+
+[_role1, _role1na"
+09.12.2014 23:48:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "pTime;
+
+_n1 = floor(random 5);		
+
+switch (_n1) do
+{
+case 0:
+{
+execVM "mission\Missions\bHeliCrash.sqf";
+};
+case 1:
+{
+execVM "mis"
+09.12.2014 23:48:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ane Crash";  
+"Marker1" setMarkerColor "Colorgreen";
+sleep 5;
+execVM "mission\scripts\ai.sqf";
+
+
+hintSilent parseText format["<t"
+09.12.2014 23:48:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "e ["Land_UWreck_MV22_F",_pos,[], 0, "NONE"];
+
+sleep 1500;
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\initMPlus.sqf";
+"
+09.12.2014 23:48:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "fePos; 
+_marker = createMarker ["Marker1",_pos];  
+_marker setMarkerType "mil_objective";  
+"Marker1" setMarkerText "Bandit Plan"
+09.12.2014 23:48:26: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "Pos,0,-1,20,0,4000,0]call BIS_fnc_findSafePos; 
+_marker = createMarker ["Marker1",_pos];  
+_marker setMarkerType "mil_objective""
+09.12.2014 23:48:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #20 "ane Crash";  
+"Marker1" setMarkerColor "Colorgreen";
+sleep 5;
+execVM "mission\scripts\ai.sqf";
+
+
+hintSilent parseText format["<t"
+09.12.2014 23:48:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #40 "e ["Land_UWreck_MV22_F",_pos,[], 0, "NONE"];
+
+sleep 1500;
+deleteMarker "Marker1"; 
+
+sleep 10;
+execVM "mission\initMPlus.sqf";
+"
+09.12.2014 23:48:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #41 "fePos; 
+_marker = createMarker ["Marker1",_pos];  
+_marker setMarkerType "mil_objective";  
+"Marker1" setMarkerText "Bandit Plan"
+09.12.2014 23:48:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #42 "Pos,0,-1,20,0,4000,0]call BIS_fnc_findSafePos; 
+_marker = createMarker ["Marker1",_pos];  
+_marker setMarkerType "mil_objective""
+09.12.2014 23:48:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #33 "bjNull;
+_centerpos = getmarkerpos "Marker1";
+_unitGroup = createGroup RESISTANCE;
+_unitGroup setBehaviour "AWARE";
+_unitGroup se"
+09.12.2014 23:48:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #36 "WARE";
+_unitGroup setCombatMode "RED";
+_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+_unit1 = _"
+09.12.2014 23:48:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #21 "dom _sCount);
+_item = pistolList select _sSelect;
+_crate addWeaponCargoGlobal [_item,1];
+_ammo = [] + getArray (configFile >> "c"
+09.12.2014 23:48:31: cammy (77.96.32.196:2304) 59bc995950daf2beae4cf20b16190605 - #24 "tem >> "magazines");
+if (count _ammo > 0) then {
+_crate addMagazineCargoGlobal [(_ammo select 0),(round(random 8))];
+};
+};
+
+
+_sc"

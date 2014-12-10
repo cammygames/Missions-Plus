@@ -1,7 +1,7 @@
 Missions-Plus
 =============
 
-A Arma 3 Epoch Mission System Based Of Drsubo's origanal mission system found here: http://bit.ly/1yza2Gk
+A Arma 3 Epoch Mission System Based Of Drsubo's original mission system found here: http://bit.ly/1yza2Gk
 
 
 Install Guide

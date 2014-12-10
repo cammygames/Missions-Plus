@@ -25,6 +25,8 @@ _wreck1 = createVehicle ["Land_Wreck_Ural_F",_pos,[], 0, "NONE"];
 
 sleep 1500;
 deleteMarker "Marker1"; 
- 
+deleteVehicle  _wreck; 
+deleteVehicle  _wreck1;
+
 sleep 10;
 execVM "mission\initMPlus.sqf";

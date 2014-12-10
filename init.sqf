@@ -1,1 +1,0 @@
-[]execVM "mission\initMPlus.sqf";

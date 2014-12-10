@@ -16,27 +16,27 @@ switch (_n1) do
 {
 	case 0:
 		{
-			execVM "mission\Missions\bHeliCrash.sqf";
+			execVM "\a3_missionsPlus_server\mission\bHeliCrash.sqf";
 		};
 	case 1:
 		{
-			execVM "mission\Missions\supplyVanCrash.sqf";
+			execVM "\a3_missionsPlus_server\mission\supplyVanCrash.sqf";
 		};
 	case 2:
 		{
-			execVM "mission\Missions\bPlaneCrash.sqf";
+			execVM "\a3_missionsPlus_server\mission\bPlaneCrash.sqf";
 		};
 	case 3:
 		{
-			execVM "mission\Missions\bCamp.sqf";
+			execVM "\a3_missionsPlus_server\mission\bCamp.sqf";
 		};
 	case 4:
 		{
-			execVM "mission\Missions\bDevice.sqf";
+			execVM "\a3_missionsPlus_server\mission\bDevice.sqf";
 		};
 	case 5:
 		{
-			execVM "mission\Missions\bHeliCrash.sqf";
+			execVM "\a3_missionsPlus_server\mission\bHeliCrash.sqf";
 		};
 };
 

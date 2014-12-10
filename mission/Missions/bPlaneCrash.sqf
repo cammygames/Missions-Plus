@@ -11,8 +11,7 @@ _marker setMarkerType "mil_objective";
 "Marker1" setMarkerText "Bandit Plane Crash";  
 "Marker1" setMarkerColor "Colorgreen";
 sleep 5;
-execVM "mission\scripts\ai.sqf";
-
+[2] execVM "mission\scripts\ai.sqf";
 
 hintSilent parseText format["<t size='3' color='#ff0000' underline='true'>Missions+</t><hr/><br/><t size='1.25' color='#ffff00'>A Bandit Supply Plane Has Crashed! Go Secure The Loot!</t>"];
 

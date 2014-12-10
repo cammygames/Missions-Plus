@@ -11,7 +11,7 @@ _marker setMarkerType "mil_objective";
 "MarkerC" setMarkerText "Bandit Camp";  
 "MarkerC" setMarkerColor "Colorred";
 sleep 5;
-execVM "mission\scripts\ai.sqf";
+[_pos] execVM "mission\scripts\ai.sqf";
 
 
 hintSilent parseText format["<t size='3' color='#ff0000' underline='true'>Missions+</t><hr/><br/><t size='1.25' color='#ffff00'>A Bandit Camp Has Been Setup! Go Evict Them!</t>"];

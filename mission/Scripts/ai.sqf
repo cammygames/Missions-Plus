@@ -1,9 +1,10 @@
 /*
 	File: ai.sqf
 	Author: drsubo
+	usage : [_uLoc] execVM
 */
+_centerpos = _this select 0;
 _unit = objNull;
-_centerpos = getmarkerpos "Marker1";
 _unitGroup = createGroup RESISTANCE;
 _unitGroup setBehaviour "AWARE";
 _unitGroup setCombatMode "RED";

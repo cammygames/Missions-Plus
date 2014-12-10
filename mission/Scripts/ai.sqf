@@ -1,29 +1,63 @@
 /*
 	File: ai.sqf
 	Author: drsubo
+	Editied By: Cammygames
+	usage = [_grpCnt] execVM "mission\Scripts\ai.sqf"
 */
+
+_grpCnt = this select 0;
 _unit = objNull;
 _centerpos = getmarkerpos "Marker1";
 _unitGroup = createGroup RESISTANCE;
 _unitGroup setBehaviour "AWARE";
 _unitGroup setCombatMode "RED";
-_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
 
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
-_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+switch (_grpCnt) do
+{
+	case 1:
+	    {
+		_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"]; //Group Leader
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+	    };
+	case 2:
+	    {
+		_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"]; //Group Leader
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];	    
+		
+		_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"]; //Group Leader
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];	    
+	    };
+	    
+	case 3:
+	    {
+		_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"]; //Group Leader
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];	    
+		
+		_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"]; //Group Leader
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		
+		_unit1 = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"]; //Group Leader
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];
+		_unit = _unitGroup createUnit ["I_Soldier_EPOCH", _centerpos, [], 0, "FORM"];	   
+	    };
+};
 
 _unit setSkill 0.6;
 _unit setRank "Private";

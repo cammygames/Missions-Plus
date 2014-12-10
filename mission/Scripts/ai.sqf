@@ -5,7 +5,7 @@
 	usage = [_grpCnt] execVM "mission\Scripts\ai.sqf"
 */
 
-_grpCnt = this select 0;
+_grpCnt = _this select 0;
 _unit = objNull;
 _centerpos = getmarkerpos "Marker1";
 _unitGroup = createGroup RESISTANCE;

@@ -24,6 +24,7 @@ _wreck = createVehicle ["Land_BagBunker_Large_F",_pos,[], 0, "NONE"];
 
 sleep 1500;
 deleteMarker "Marker1"; 
+deleteVehicle  _wreck;
  
 sleep 10;
 execVM "mission\initMPlus.sqf";
